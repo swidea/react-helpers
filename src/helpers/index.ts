@@ -1,5 +1,5 @@
-import index from "./makeClassName";
+import makeClassName from "./makeClassName";
 
 export {
-    index,
+    makeClassName,
 }
